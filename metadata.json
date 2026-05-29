@@ -1,0 +1,6 @@
+{
+  "name": "Collaborative Task Manager",
+  "description": "A high-fidelity, real-time collaborative task management board featuring room isolation, live presence indicators, shared cursor coordinates, task locking, status updates, and full-fidelity local server persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
